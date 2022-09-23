@@ -1,5 +1,5 @@
-# NSDK
-This is a discussion forum for NSDK users
+# Neuron SDK
+This is a discussion forum for Neuron SDK users
 
 Please click the below link to enter the forum!
 
